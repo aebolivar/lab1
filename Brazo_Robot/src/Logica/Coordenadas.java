@@ -70,3 +70,4 @@ private final int base=3;//altura
         this.mov_x= Mov_Ho; 
     }
 }
+//
